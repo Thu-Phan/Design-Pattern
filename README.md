@@ -8,5 +8,6 @@
 4. Iterator Pattern: https://youtu.be/rTE3k00PWKU
 5. State Pattern: https://youtu.be/ROxJ1cFDt5Q
 6. Composite Pattern: https://youtu.be/MtvRbbY748c
-7. 
+7. Decorator Pattern: https://youtu.be/JITn4uInUEQ
+8. 
 
