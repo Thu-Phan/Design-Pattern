@@ -9,5 +9,10 @@
 5. State Pattern: https://youtu.be/ROxJ1cFDt5Q
 6. Composite Pattern: https://youtu.be/MtvRbbY748c
 7. Decorator Pattern: https://youtu.be/JITn4uInUEQ
-8. 
+8. Template Method Pattern: https://youtu.be/iQmVorI16M0
+9. Iterator Pattern: https://youtu.be/rTE3k00PWKU
+10. State Pattern: https://youtu.be/ROxJ1cFDt5Q
+11. Composite Pattern: https://youtu.be/MtvRbbY748c
+12. Decorator Pattern: https://youtu.be/JITn4uInUEQ
+
 
