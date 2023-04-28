@@ -11,9 +11,8 @@
 7. Decorator Pattern: https://youtu.be/JITn4uInUEQ
 8. Template Method Pattern: https://youtu.be/iQmVorI16M0
 9. Iterator Pattern: https://youtu.be/rTE3k00PWKU
-10. State Pattern: https://youtu.be/ROxJ1cFDt5Q
-11. Composite Pattern: https://youtu.be/MtvRbbY748c
-12a. Decorator Pattern: https://youtu.be/JITn4uInUEQ
-12b. Proxy Pattern: https://www.youtube.com/watch?v=TD4rUx9w9RI
+10. Composite Pattern: https://youtu.be/MtvRbbY748c
+11. Decorator Pattern: https://youtu.be/JITn4uInUEQ
+12. Proxy Pattern: https://www.youtube.com/watch?v=TD4rUx9w9RI
 
 
