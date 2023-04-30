@@ -10,5 +10,6 @@
 6. Composite Pattern: https://youtu.be/MtvRbbY748c
 7. Decorator Pattern: https://youtu.be/JITn4uInUEQ
 8. Proxy Pattern: https://www.youtube.com/watch?v=TD4rUx9w9RI
+9. Factory Pattern: https://youtu.be/DP7Idx6bouw
 
 
